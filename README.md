@@ -1,5 +1,4 @@
-Nama: Julia Nabella
-
-NIM: 2455202036
-
-Aplikasi Arsip Materi merupakan aplikasi web untuk mengarsipkan dan menampilkan materi kuliah agar mudah diakses oleh mahasiswa.
+Nama : Julia Nabella
+NIM : 2455202036
+Kelas : C02
+Mata Kuliah : UTS Pemrograman WEB 2
